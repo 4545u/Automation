@@ -5,7 +5,7 @@ import requests
 import json
 import pymysql.cursors
 from ddt import ddt,data,unpack
-from common.test_read_excel import ExcelUnit
+from common.read_excel import ExcelUnit
 
 
 def connmysql():

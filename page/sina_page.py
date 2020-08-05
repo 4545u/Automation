@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 from common.basepage import *
-from common.test_read_excel import *
+from common.read_excel import *
 
 
 def sina_login_date():

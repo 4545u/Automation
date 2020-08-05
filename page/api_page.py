@@ -1,4 +1,4 @@
-from common.test_read_excel import *
+from common.read_excel import *
 
 
 def get_api_case():
